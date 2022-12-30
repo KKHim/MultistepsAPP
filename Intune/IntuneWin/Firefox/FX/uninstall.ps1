@@ -1,0 +1,1 @@
+c:\programdata\chocolatey\choco.exe uninstall firefox
